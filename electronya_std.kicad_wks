@@ -735,4 +735,6 @@
     (data "74 6A B8 21 E4 70 38 1C 4E A7 E6 FF 6F D5 33 12 FB 6E 0D C1 00 00 00 00 49 45 4E 44 AE 42 60 82 ")
     )
   )
+  (line (name segm11:Line) (start 56.00020000000001 8.500199999999978) (end 56.00020000000001 14.50019999999998))
+  (tbtext "Part N°: %C0" (name text14:Text) (pos 55 11.5) (font (size 2 2) bold))
 )
